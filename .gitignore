@@ -29,6 +29,4 @@ nbdist/
 ### Config files ###
 src/main/resources/application-local.properties
 
-### Dockerfile ##
-Dockerfile
-./Dockerfile
+
